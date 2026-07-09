@@ -38,13 +38,13 @@ systems use sensors to detect available spaces and guide drivers efficiently.
 • Faster emergency response    
 • Better transportation management
 <img width="900" height="620" alt="image" src="https://github.com/user-attachments/assets/e1606ff7-1e5b-4bf4-b5b6-0d7a71b4f64b" />
-<img width="834" height="479" alt="image" src="https://github.com/user-attachments/assets/5618a9d1-a8b9-44e7-b05b-d5ae80ec61e8" />
 
 Fig: Smart Parking    
 Finding parking spaces in crowded urban areas wastes fuel and increases traffic.    
 Smart parking systems use sensors installed in parking spaces to detect availability.    
 Drivers can access real-time parking information through mobile applications. This 
 helps reduce search time, lowers fuel consumption, and improves traffic flow.
+<img width="834" height="479" alt="image" src="https://github.com/user-attachments/assets/56293211-f0a1-4643-8a72-932fc245233c" />
 
 Fig: Smart Traffic Managemet    
 Traffic congestion is one of the biggest problems in modern cities. IoT helps manage traffic 
